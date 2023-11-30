@@ -10,7 +10,7 @@
 #include<time.h>
 #include <dirent.h>
 
-
+//modificari
 
 
 off_t getlungimeafisieruluioriginal(const char *linkPath,const char path[]) {
